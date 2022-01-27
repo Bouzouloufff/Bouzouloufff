@@ -1,0 +1,5 @@
+- 👋 Salut, moi c'est @Bouzouloufff
+- 👀 Je m'intéresse de près au développement qui tourne autour du jeu vidéo
+- 🌱 J'apprends le Lua en ce moment
+- ✨ Je travaille actuellement pour un server FiveM
+- 📫 Vous pouvez me contacter à bouzouloufff@gmail.com
